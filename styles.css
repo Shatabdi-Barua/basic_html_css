@@ -15,6 +15,9 @@ table, th, td{
     font-size: 18px;
     color: #d17676;
 }
+.contents p::first-letter{
+    color:#1123ea;
+}
 .contents img{
     width: 300px;
     height: 250px;
